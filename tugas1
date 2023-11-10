@@ -1,0 +1,17 @@
+// // nomor 1
+// const namaLengkap="M. Risano Akbar"
+// const email = "risano@mgail.com"
+// const umur = 17
+
+
+// nomor2
+
+const biodata = {
+    namaLengkap: "M. Risano Akbar",
+    email: "risano@Mgail.com",
+    umur: 17
+    // dan setrus
+}
+
+// nomor 3
+console.log("Nama Lengkap : "+ biodata.namaLengkap);
